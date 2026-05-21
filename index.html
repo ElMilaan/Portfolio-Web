@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="icon"
+      href="public/img/Logo/Favicion/purple_on_light.png"
+      media="(prefers-color-scheme: dark)"
+      type="image/png"
+    />
+    <link
+      rel="icon"
+      href="public/img/Logo/Favicion/purple_on_dark.png"
+      media="(prefers-color-scheme: light)"
+      type="image/png"
+    />
+    <link
+      rel="icon"
+      href="public/img/Logo/Favicion/dark_on_light.png"
+      type="image/png"
+    />
+  </head>
+
+  <body>
+    <nav id="nav">
+      <a href="#" class="nav__name"
+        ><img
+          src="public/img/Logo/Large/logo-full-light.png"
+          alt="Milan"
+          width="100px"
+      /></a>
+      <ul class="nav__links">
+        <li><a href="#about">À propos</a></li>
+        <li><a href="#projects">Projets</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section class="hero" id="hero">
+      <div class="hero__pattern"></div>
+      <div class="hero__grain"></div>
+
+      <div class="hero__logo-wrap">
+        <video class="hero__logo" autoplay muted playsinline>
+          <source
+            src="public/img/Logo/Logo_w_portfolio_Animé_60.webm"
+            type="video/webm"
+          />
+        </video>
+      </div>
+
+      <div class="hero__scroll">
+        <span>Défiler</span>
+        <div class="scroll-line"></div>
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <section id="about">
+      <div class="about__photo-wrap reveal">
+        <img
+          class="about__photo"
+          src="public/img/Photo/milan.webp"
+          alt="Milan Junges"
+        />
+        <div class="about__photo-frame"></div>
+        <div class="about__photo-accent"></div>
+      </div>
+
+      <div class="about__content reveal">
+        <div class="section-label">À propos</div>
+
+        <h1 class="about__headline">
+          Créateur <br />
+          d'<em>expériences</em> <br />
+          numériques
+        </h1>
+
+        <div class="about__bio">
+          <p>
+            Je suis Milan Junges, ingénieur IMAC. Je conçois des expériences
+            numériques (allant de branding à projets immersifs réels) en mettant
+            un point d'honneur à transmettre une identité forte et cohérente
+            tout en gardant une approche artistique et créative.
+          </p>
+          <p>
+            Mon travail se situe à la croisée de la créativité et de la
+            technique. Les compétences que j'ai acquises au fil des années me
+            permettent de développer des projets tant sur le plan artistique que
+            fonctionnel.
+          </p>
+        </div>
+
+        <div class="about__tags">
+          <span class="tag">Direction artistique</span>
+          <span class="tag">UI / UX Design</span>
+          <span class="tag">Montage vidéo</span>
+          <span class="tag">Motion Design</span>
+          <span class="tag">Développement Web</span>
+        </div>
+
+        <a href="#contact" class="about__cta">
+          <span>Travaillons ensemble</span>
+          <span>→</span>
+        </a>
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <section id="projects">
+      <div class="projects__header reveal">
+        <div>
+          <div class="section-label">Projets sélectionnés</div>
+          <!-- <h2 class="projects__title">Ce que j'ai créé.</h2> -->
+        </div>
+        <span class="projects__count">05 projets</span>
+      </div>
+
+      <div class="projects__grid">
+        <article class="project-card reveal">
+          <div class="project-card__visual">
+            <img
+              src="public/img/Projets/Journeys/cover-portfolio.png"
+              alt="Logo de projet Journeys"
+              class="cover-project"
+            />
+            <div class="project-card__glow"></div>
+          </div>
+          <div class="project-card__body">
+            <div class="project-card__meta">
+              <div class="project-card__category">Branding & Identité</div>
+              <h3 class="project-card__name">Journeys</h3>
+              <p class="project-card__desc">
+                Une identité visuelle complète pour une compagnie ferroviaire
+                axée sur l'écologie.
+              </p>
+            </div>
+            <div class="project-card__arrow">
+              <svg
+                viewBox="0 0 14 14"
+                fill="none"
+                stroke="#F4F4F4"
+                stroke-width="1.5"
+              >
+                <path d="M2 12 12 2M5 2h7v7" />
+              </svg>
+            </div>
+          </div>
+          <div class="project-card__tags">
+            <span class="project-card__tag">Figma</span>
+            <span class="project-card__tag">Illustrator</span>
+            <span class="project-card__tag">After Effects</span>
+            <span class="project-card__tag">Blender</span>
+          </div>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-card__visual">
+            <img
+              src="public/img/Projets/Cap-d-ours/cover-portfolio.jpg"
+              alt="Affiche de l'événement Cap D'ours"
+              class="cover-project img-top"
+            />
+            <div class="project-card__glow"></div>
+          </div>
+          <div class="project-card__body">
+            <div class="project-card__meta">
+              <div class="project-card__category">Communication</div>
+              <h3 class="project-card__name">Cap D'ours</h3>
+              <p class="project-card__desc">
+                Création, organisation et communication digitale d'un événement
+                musical au Québec.
+              </p>
+            </div>
+            <div class="project-card__arrow">
+              <svg
+                viewBox="0 0 14 14"
+                fill="none"
+                stroke="#F4F4F4"
+                stroke-width="1.5"
+              >
+                <path d="M2 12 12 2M5 2h7v7" />
+              </svg>
+            </div>
+          </div>
+          <div class="project-card__tags">
+            <span class="project-card__tag">Photoshop</span>
+            <span class="project-card__tag">Illustrator</span>
+            <span class="project-card__tag">After Effects</span>
+            <span class="project-card__tag">Blender</span>
+          </div>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-card__visual">
+            <img
+              src="public/img/Projets/Dernière-Danse/Photos/cover-portfolio.jpg"
+              alt="Affiche du court-métrage Dernière Danse"
+              class="cover-project img-top"
+            />
+            <div class="project-card__glow"></div>
+          </div>
+          <div class="project-card__body">
+            <div class="project-card__meta">
+              <div class="project-card__category">Audiovisuel</div>
+              <h3 class="project-card__name">Dernière Danse</h3>
+              <p class="project-card__desc">
+                Court métrage réalisé dans le cadre d'un projet étudiant à
+                l'IMAC.
+              </p>
+            </div>
+            <div class="project-card__arrow">
+              <svg
+                viewBox="0 0 14 14"
+                fill="none"
+                stroke="#F4F4F4"
+                stroke-width="1.5"
+              >
+                <path d="M2 12 12 2M5 2h7v7" />
+              </svg>
+            </div>
+          </div>
+          <div class="project-card__tags">
+            <span class="project-card__tag">Cadrage</span>
+            <span class="project-card__tag">Montage</span>
+            <span class="project-card__tag">Réalisation</span>
+            <span class="project-card__tag">Premiere Pro</span>
+          </div>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-card__visual">
+            <img
+              src="public/img/Projets/Echos/cover-portfolio.jpeg"
+              alt="Image de projet Echos"
+              class="cover-project img-top"
+            />
+            <div class="project-card__glow"></div>
+          </div>
+          <div class="project-card__body">
+            <div class="project-card__meta">
+              <div class="project-card__category">Capture de Mouvement</div>
+              <h3 class="project-card__name">Echos</h3>
+              <p class="project-card__desc">
+                Projet expérimental de capture de mouvement dans le cadre de la
+                découverte de technologies utilisées dans Avatar ou par certains
+                studios de jeu vidéo.
+              </p>
+            </div>
+            <div class="project-card__arrow">
+              <svg
+                viewBox="0 0 14 14"
+                fill="none"
+                stroke="#F4F4F4"
+                stroke-width="1.5"
+              >
+                <path d="M2 12 12 2M5 2h7v7" />
+              </svg>
+            </div>
+          </div>
+          <div class="project-card__tags">
+            <span class="project-card__tag">Vicon MOCAP</span>
+            <span class="project-card__tag">Unreal Engine</span>
+            <span class="project-card__tag">Motion Builder</span>
+          </div>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-card__visual">
+            <img
+              src="public/img/Projets/The-Room/Logo-The-Room.png"
+              alt="Logo de projet The Room"
+              class="cover-project"
+            />
+            <div class="project-card__glow"></div>
+          </div>
+          <div class="project-card__body">
+            <div class="project-card__meta">
+              <div class="project-card__category">
+                Mapping / Gestion des scènes / Développement d'outils techniques
+              </div>
+              <h3 class="project-card__name">The Room</h3>
+              <p class="project-card__desc">
+                à mi-chemin entre jeu TV et escape game, The Room est une
+                expérience immersive réalisée dans le cadre de mon projet de fin
+                d'études à l'UQAT, au Canada. Le projet a été présenté aux
+                habitants de la ville de Rouyn-Noranda lors de l'un de ses
+                événements culturels annuels, <i>La Nuit Blanche</i>.
+              </p>
+            </div>
+            <div class="project-card__arrow">
+              <svg
+                viewBox="0 0 14 14"
+                fill="none"
+                stroke="#F4F4F4"
+                stroke-width="1.5"
+              >
+                <path d="M2 12 12 2M5 2h7v7" />
+              </svg>
+            </div>
+          </div>
+          <div class="project-card__tags">
+            <span class="project-card__tag">OBS</span>
+            <span class="project-card__tag">Resolume Arena</span>
+            <span class="project-card__tag">After Effects</span>
+            <span class="project-card__tag">Illustrator</span>
+            <span class="project-card__tag">Arduino</span>
+            <span class="project-card__tag">Python</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <div class="divider"></div>
+
+    <section id="contact">
+      <div class="contact__blob"></div>
+      <p class="contact__eyebrow reveal">Contact</p>
+      <h2 class="contact__heading reveal">
+        Créons<br /><em>Re -</em> créons<br />
+        ensemble !
+      </h2>
+      <p class="contact__sub reveal">
+        À la recherche de toujours plus d'opportunités.
+      </p>
+      <a href="mailto:milan.junges@gmail.com" class="contact__btn reveal">
+        <span>Envoyer un message</span>
+        <span>→</span>
+      </a>
+    </section>
+
+    <footer>
+      <p>© 2026 Milan Junges — Tous droits réservés</p>
+      <div class="footer__socials">
+        <!-- <a href="#">Behance</a> -->
+        <a
+          href="https://www.linkedin.com/in/milan-junges-502a44262/"
+          class="footer__socials-link"
+        >
+          <svg
+            height="17px"
+            width="17px"
+            version="1.1"
+            id="Layer_1"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            viewBox="0 0 382.00 382.00"
+            xml:space="preserve"
+            fill="#ffffff"
+            stroke="#ffffff"
+            stroke-width="0.0038200000000000005"
+          >
+            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+            <g
+              id="SVGRepo_tracerCarrier"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></g>
+            <g id="SVGRepo_iconCarrier">
+              <path
+                d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889 C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056 H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806 c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1 s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73 c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079 c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426 c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472 L341.91,330.654L341.91,330.654z"
+              ></path>
+            </g>
+          </svg>
+
+          <p>LinkedIn</p>
+        </a>
+      </div>
+    </footer>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
