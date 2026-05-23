@@ -1,0 +1,299 @@
+{
+  "projects": [
+    {
+      "id": "project-01",
+      "coverImage": "public/img/Projets/project-01/cover.png",
+      "title": "Journeys",
+      "year": "2026",
+      "roles": {
+        "1": "Graphiste",
+        "2": "Directeur artistique",
+        "3": "Monteur vidéo"
+      },
+      "duration": "En cours",
+      "context": "Projet Personnel",
+      "description": "Branding complet d'une compagnie ferrovaire axée sur l'écologie.",
+      "technos": {
+        "1": "Figma",
+        "2": "Illustrator",
+        "3": "Photoshop",
+        "4": "After Effects",
+        "5": "Blender"
+      },
+      "videos": {},
+      "target": "Jeunes voyageurs (20-40 ans)",
+      "format": "Digital",
+      "deliverables": {
+        "1": "Proposition de logos",
+        "2": "Logo final + charte graphique",
+        "3": "Prototypes de supports",
+        "4": "à venir..."
+      },
+      "teamSize": "Seul",
+      "content": {
+        "1": "Journeys est une compagnie ferroviaire fictive dont je fais le branding, la recherche et les visuels de communication.",
+        "2": "C'est un projet personnel que j'ai commencé pour montrer mes compétences en design thinking / graphique et m'offrir une certaine expérience supplémentaire dans ce domaine de création digitale.",
+        "3": "Il n'est pas encore fini mais je compte bien le mener à terme et pouvoir présenter une identité de marque solide et cohérente qui parle à sa cible et qui véhicule une idée forte : le voyage éco-responsable."
+      },
+      "images": {
+        "1": "public/img/Projets/project-01/img-01.png",
+        "2": "public/img/Projets/project-01/img-02.png"
+      },
+      "conclusion": "Je vois Journeys comme mon premier projet branding complet et j'ai hâte de présenter ici le résultat final de l'identité digitale de cette compagnie ferroviaire verte !"
+    },
+    {
+      "id": "project-02",
+      "coverImage": "public/img/Projets/project-02/cover.jpg",
+      "title": "Le Souffle du Cap d'Ours",
+      "year": "2025",
+      "roles": {
+        "1": "Graphiste",
+        "2": "Co-scénariste",
+        "3": "Directeur artistique",
+        "4": "3D / FX Artist",
+        "5": "Photographe"
+      },
+      "duration": "4 mois",
+      "context": "Projet étudiant",
+      "description": "Un événement artistique et narratif.",
+      "technos": {
+        "1": "Illustrator",
+        "2": "Photoshop",
+        "3": "Figma",
+        "4": "Lightroom",
+        "5": "Blender",
+        "6": "After Effects",
+        "7": "Reaper"
+      },
+      "videos": {
+        "1": "https://youtu.be/12qDOo77I1E"
+      },
+      "target": "Étudiants et professeurs de l'UQAT",
+      "format": "Événementiel",
+      "deliverables": {
+        "1": "Pitch de concept",
+        "2": "Scénario narratif",
+        "3": "Communication",
+        "4": "Présentation"
+      },
+      "teamSize": "8 membres",
+      "content": {
+        "1": "Le Souffle du Cap d'Ours est un projet étudiant réalisé à l'UQAT, dans le cadre de mon année passée au Québec. C'est avant tout une légende inventée de toute pièce sur la colline de pierre icônique de la ville de Rouyn-Noranda, le Cap d'Ours.",
+        "2": "Cette légende raconte qu'un ours aurait sauvé la région il y a longtemps. Cette colline représente cet ours qui se serait reposé là et aurait pris petit à petit la forme de la colline que nous connaissons aujourd'hui.",
+        "3": "L'événement s'articule autour d'une ligne narrative et d'un parcours qui démarre d'un point A de la ville avec une performance de danse, puis les participants se dirigent vers le Cap d'Ours, bercés par le contage de l'histoire diffusée pendant la marche. Arrivés au sommet de la colline, un DJ set les attend pour finir la soirée sur une note festive !"
+      },
+      "link": {
+        "url": "https://www.instagram.com/uqat_cap_dours/",
+        "label": "Instagram de l'événement"
+      },
+      "images": {
+        "1": "public/img/Projets/project-02/img-01.jpg",
+        "2": "public/img/Projets/project-02/img-02.jpg",
+        "3": "public/img/Projets/project-02/img-03.jpg",
+        "4": "public/img/Projets/project-02/img-04.jpg",
+        "5": "public/img/Projets/project-02/img-05.jpg",
+        "6": "public/img/Projets/project-02/img-06.jpg",
+        "7": "public/img/Projets/project-02/img-07.jpg",
+        "8": "public/img/Projets/project-02/img-08.jpg"
+      },
+      "unicite": {
+        "aspect1": {
+          "title": "Le côté artistique",
+          "description": "Nous avons rassemblé des artistes compétents afin de livrer un vrai spectacle aux participants. Danseurs et DJs ont assurés une continuité artistique du début à la fin de l'événement.",
+          "tools": {
+            "1": "Recrutement d'artistes"
+          }
+        },
+        "aspect2": {
+          "title": "Narration et storytelling",
+          "description": "Le fait qu'une histoire soit la ligne directrice de l'événement plonge les participants dans l'univers que l'on a créé et rend l'expérience plus captivante. L'engagement physique, avec la marche, dynamise aussi l'expérience et rend chacun acteur de l'événement.",
+          "tools": {
+            "1": "Scénarisation / Écriture",
+            "2": "Parcours"
+          }
+        },
+        "aspect3": {
+          "title": "Party !",
+          "description": "Même si la présence d'une histoire et de danseurs rend l'événement attirant, une grande partie des participants étaient là pour faire la fête avec les DJ sets de fin. Cet aspect festif a attiré notre cible étudiante et a permis de faire grimper le nombre de marcheurs.",
+          "tools": {
+            "1": "DJs",
+            "2": "Communicaiton ciblée"
+          }
+        }
+      },
+      "conclusion": "Le Souffle du Cap d'Ours m'a permis de créer un événement unique mélangeant art et fête. Avec les différents acteurs de cette expérience, j'en garde un très bon souvenir, tant sur le plan du partage que sur le plan organisationnel."
+    },
+    {
+      "id": "project-03",
+      "coverImage": "public/img/Projets/project-03/cover.jpg",
+      "title": "Dernière Danse",
+      "year": "2024",
+      "roles": {
+        "1": "Asistant Réalisateur",
+        "2": "Monteur vidéo",
+        "3": "Scénariste",
+        "4": "Cadreur"
+      },
+      "duration": "2 mois",
+      "context": "Projet étudiant",
+      "description": "Un personnage en deuil...",
+      "technos": {
+        "1": "Premiere Pro",
+        "2": "Notion"
+      },
+      "videos": {
+        "1": "https://www.youtube.com/watch?v=OoabFP0lHQY&t"
+      },
+      "target": "Famille, Amis",
+      "format": "Court-métrage",
+      "deliverables": {
+        "1": "Scénario",
+        "2": "Tournage",
+        "3": "Premier montage son / vidéo",
+        "4": "Montage final"
+      },
+      "teamSize": "5 membres",
+      "content": {
+        "1": "Première expérience audiovisuelle, réaliser ce projet m'a appris beaucoup de principes du cinéma et m'a ouvert les portes de l'incroyable monde du montage.",
+        "2": "Nous avons eu la chance de travailler avec de vrais comédiens que nous avons contacté. à 4, nous avons assuré tous les rôles nécessaires, allant de la direction des acteurs au montage en passant par la direction de la photographie."
+      },
+      "images": {
+        "1": "public/img/Projets/project-03/img-01.png",
+        "2": "public/img/Projets/project-03/img-02.jpg",
+        "3": "public/img/Projets/project-03/img-03.jpg",
+        "4": "public/img/Projets/project-03/img-04.png",
+        "5": "public/img/Projets/project-03/img-05.jpg"
+      },
+      "conclusion": "Je met ce court-métrage ici car il représente vraiment mon entrée dans le monde de l'audiovisuel. Ma maîtrise des différents concepts audiovisuel, du montage vidéo ou encore de la colorimétrie m'aide beaucoup dans mes projets quels qu'ils soient. Je suis don c très heureux de cette expérience qui m'a permis de développer des compétences qui me sont très utiles aujourd'hui."
+    },
+    {
+      "id": "project-04",
+      "coverImage": "public/img/Projets/project-04/cover.jpeg",
+      "title": "Echos",
+      "year": "2026",
+      "roles": {
+        "1": "Scénariste",
+        "2": "Acteur MOCAP",
+        "3": "Nettoyeur d'animation",
+        "4": "Intégrateur Unreal",
+        "5": "Lightning / Compositing"
+      },
+      "duration": "2 mois",
+      "context": "Projet étudiant",
+      "description": "Projet expérimentale utilsant la capture de mouvement",
+      "technos": {
+        "1": "Vicon MOCAP",
+        "2": "Motion Builder",
+        "3": "Unreal Engine"
+      },
+      "videos": {
+        "1": "https://youtu.be/lRxnYIZcGrk"
+      },
+      "target": "Pour un cours",
+      "format": "Vidéo",
+      "deliverables": {
+        "1": "Pitch du scénario",
+        "2": "Capture de mouvement",
+        "3": "Nettoyage de l'animation",
+        "4": "Intégration dans Unreal Engine",
+        "5": "Montage final"
+      },
+      "teamSize": "3 membres",
+      "content": {
+        "1": "Ce projet a été une grande découverte pour moi. L'accès à cette technologie de capture de mouvement est très rare et cette opportunité a un peu plus agrandit le champ de mes connaissances et de mes compétences.",
+        "2": "J'ai également appris à utiliser Unreal Engine et à créer des environnements et des ambiances directement dans le logiciel."
+      },
+      "images": {
+        "1": "public/img/Projets/project-04/img-01.jpeg",
+        "2": "public/img/Projets/project-04/img-02.jpeg",
+        "3": "public/img/Projets/project-04/img-03.jpeg",
+        "4": "public/img/Projets/project-04/img-04.jpeg",
+        "5": "public/img/Projets/project-04/img-05.jpeg",
+        "6": "public/img/Projets/project-04/img-06.jpg"
+      },
+      "conclusion": "C'était une super expérience de pouvoir utiliser cette technologie qui a permis de produire des films comme Avatar. Cela m'a appris que le travail de capture de mouvement ne s'arrête pas simplement à la captation... Le plus gros du travail se passe en post-production et au nettoyage des scènes !"
+    },
+    {
+      "id": "project-05",
+      "coverImage": "public/img/Projets/project-05/cover.png",
+      "title": "The Room",
+      "year": "2025 - 2026",
+      "roles": {
+        "1": "Graphiste",
+        "2": "Monteur vidéo",
+        "3": "Développeur",
+        "4": "Gestionnaire des scènes",
+        "5": "Mappeur"
+      },
+      "duration": "8 mois",
+      "context": "Projet étudiant",
+      "description": "Une expérience immersive et interactive.",
+      "technos": {
+        "1": "Python",
+        "2": "NodeJS",
+        "3": "PostgreSQL",
+        "4": "Arduino",
+        "5": "Illustrator",
+        "6": "Photoshop",
+        "7": "After Effects",
+        "8": "Premiere Pro",
+        "9": "Resolume Arena",
+        "10": "OBS Studio"
+      },
+      "videos": {
+        "1": "https://youtu.be/Z0o1wRTzZDU"
+      },
+      "target": "Groupes d'amis (18-30 ans)",
+      "format": "Immersif et interactif",
+      "deliverables": {
+        "1": "Présentation du concept",
+        "2": "Concept des épreuves",
+        "3": "Prototype",
+        "4": "Présentation"
+      },
+      "teamSize": "7 membres",
+      "content": {
+        "1": "The Room est un projet étudiant réalisé sur une année complète dans le cadre de mon année d'étude à l'UQAT, au Québec. Enfermés entre 4 murs, 5 participants de ce jeu TV / Escape Game doivent faire face à 4 épreuves et énigmes.",
+        "2": "Nous avons réalisé ce projet de A à Z, de la conception à la réalisation, en passant par le développement et la création de tous les éléments graphiques, visuels et sonores.",
+        "3": "Un présentateur virtuel leur parle et les guides si besoin. Mais ce dernier est un peu sournois et sème le trouble parmi le groupe de joueurs en poussant les uns et les autres à se trahir pour tester leur amitié. Car oui nous avons privilégié les groupes d'amis pour voir comment ils réagissaient face à la trahison et au stress."
+      },
+      "images": {
+        "1": "public/img/Projets/project-05/img-01.jpg",
+        "2": "public/img/Projets/project-05/img-02.png",
+        "3": "public/img/Projets/project-05/img-03.png",
+        "4": "public/img/Projets/project-05/img-04.png",
+        "5": "public/img/Projets/project-05/img-05.png",
+        "6": "public/img/Projets/project-05/img-06.png"
+      },
+      "unicite": {
+        "aspect1": {
+          "title": "L'immersion",
+          "description": "L'isolation spatiale et sonore des joueurs coupe les joueurs du monde extérieur et crée un environnement leur permettant de vivre l'expérience à fond.",
+          "tools": {
+            "1": "Design sonore",
+            "2": "Infrastructure spatiale"
+          }
+        },
+        "aspect2": {
+          "title": "Dualité Coopération / Trahison",
+          "description": "Il est possible de gagner en équipe ou seul. C'est aux joueurs de décider individuellement de leur manière de jouer. L'inconfort de ne pas connaître les choix de chacun rend les enjeux plus intenses. Cette dualité renforce encore plus l'immersion et le stress des joueurs.",
+          "tools": {
+            "1": "Présentateur",
+            "2": "Étude des joueurs inscrits au préalable"
+          }
+        },
+        "aspect3": {
+          "title": "Interactivité",
+          "description": "Durant les différents jeux, les joueurs peuvent inintéragir avec les éléments dans la salle comme les boutons ou encore le casque audio qui sert au présentateur à appeler un joueur en particulier et lui parler individuellement. De plus, ce qui rend ce projet encore plus intéractif et unique est le fait que les participants intéragissent avec le mapping vidéo au sol (des trappes qui s'ouvrent, des chemins qui se créent...)",
+          "tools": {
+            "1": "Mapping au sol",
+            "2": "Boutons intéractifs",
+            "3": "Casque audio",
+            "4": "Présentateur"
+          }
+        }
+      },
+      "conclusion": "The Room est un projet qui m'a permis de développer mes compétences dans de nombreux domaines, notamment la gestion de projet, le mapping vidéo ou encore le développement de contenu interactif et immersif. Ce projet a été une expérience très enrichissante et m'a permis de travailler sur un de mes projets les plus ambitieux et innovants."
+    }
+  ]
+}
