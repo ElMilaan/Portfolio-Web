@@ -381,6 +381,10 @@ nav.scrolled {
   .about__bio {
     text-align: center;
   }
+
+  p {
+    text-align: center;
+  }
 }
 
 /* ── PROJETS ── */

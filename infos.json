@@ -119,7 +119,7 @@
           "description": "Même si la présence d'une histoire et de danseurs rend l'événement attirant, une grande partie des participants étaient là pour faire la fête avec les DJ sets de fin. Cet aspect festif a attiré notre cible étudiante et a permis de faire grimper le nombre de marcheurs.",
           "tools": {
             "1": "DJs",
-            "2": "Communicaiton ciblée"
+            "2": "Communication ciblée"
           }
         }
       },
@@ -131,7 +131,7 @@
       "title": "Dernière Danse",
       "year": "2024",
       "roles": {
-        "1": "Asistant Réalisateur",
+        "1": "Assistant Réalisateur",
         "2": "Monteur vidéo",
         "3": "Scénariste",
         "4": "Cadreur"
@@ -157,7 +157,7 @@
       "teamSize": "5 membres",
       "content": {
         "1": "Première expérience audiovisuelle, réaliser ce projet m'a appris beaucoup de principes du cinéma et m'a ouvert les portes de l'incroyable monde du montage.",
-        "2": "Nous avons eu la chance de travailler avec de vrais comédiens que nous avons contacté. à 4, nous avons assuré tous les rôles nécessaires, allant de la direction des acteurs au montage en passant par la direction de la photographie."
+        "2": "Nous avons eu la chance de travailler avec de vrais comédiens que nous avons contactés. À 4, nous avons assuré tous les rôles nécessaires, allant de la direction des acteurs au montage en passant par la direction de la photographie."
       },
       "images": {
         "1": "public/img/Projets/project-03/img-01.png",
@@ -166,7 +166,7 @@
         "4": "public/img/Projets/project-03/img-04.png",
         "5": "public/img/Projets/project-03/img-05.jpg"
       },
-      "conclusion": "Je met ce court-métrage ici car il représente vraiment mon entrée dans le monde de l'audiovisuel. Ma maîtrise des différents concepts audiovisuel, du montage vidéo ou encore de la colorimétrie m'aide beaucoup dans mes projets quels qu'ils soient. Je suis don c très heureux de cette expérience qui m'a permis de développer des compétences qui me sont très utiles aujourd'hui."
+      "conclusion": "Je mets ce court-métrage ici car il représente vraiment mon entrée dans le monde de l'audiovisuel. Ma maîtrise des différents concepts audiovisuels, du montage vidéo ou encore de la colorimétrie m'aide beaucoup dans mes projets quels qu'ils soient. Je suis donc très heureux de cette expérience qui m'a permis de développer des compétences qui me sont très utiles aujourd'hui."
     },
     {
       "id": "project-04",
@@ -182,10 +182,10 @@
       },
       "duration": "2 mois",
       "context": "Projet étudiant",
-      "description": "Projet expérimentale utilsant la capture de mouvement",
+      "description": "Projet expérimental utilisant la capture de mouvement",
       "technos": {
         "1": "Vicon MOCAP",
-        "2": "Motion Builder",
+        "2": "MotionBuilder",
         "3": "Unreal Engine"
       },
       "videos": {
@@ -202,7 +202,7 @@
       },
       "teamSize": "3 membres",
       "content": {
-        "1": "Ce projet a été une grande découverte pour moi. L'accès à cette technologie de capture de mouvement est très rare et cette opportunité a un peu plus agrandit le champ de mes connaissances et de mes compétences.",
+        "1": "Ce projet a été une grande découverte pour moi. L'accès à cette technologie de capture de mouvement est très rare et cette opportunité a un peu plus agrandi le champ de mes connaissances et de mes compétences.",
         "2": "J'ai également appris à utiliser Unreal Engine et à créer des environnements et des ambiances directement dans le logiciel."
       },
       "images": {
@@ -286,7 +286,7 @@
         },
         "aspect3": {
           "title": "Interactivité",
-          "description": "Durant les différents jeux, les joueurs peuvent inintéragir avec les éléments dans la salle comme les boutons ou encore le casque audio qui sert au présentateur à appeler un joueur en particulier et lui parler individuellement. De plus, ce qui rend ce projet encore plus intéractif et unique est le fait que les participants intéragissent avec le mapping vidéo au sol (des trappes qui s'ouvrent, des chemins qui se créent...)",
+          "description": "Lors des différents jeux, les joueurs peuvent interagir avec les éléments dans la salle comme les boutons ou encore le casque audio qui sert au présentateur à appeler un joueur en particulier et lui parler individuellement. De plus, ce qui rend ce projet encore plus interactif et unique est le fait que les participants interagissent avec le mapping vidéo au sol (des trappes qui s'ouvrent, des chemins qui se créent...)",
           "tools": {
             "1": "Mapping au sol",
             "2": "Boutons intéractifs",
