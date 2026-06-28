@@ -454,7 +454,11 @@ nav.scrolled {
 }
 
 .project-card:nth-child(5) {
-  grid-column: span 12;
+  grid-column: span 7;
+}
+
+.project-card:nth-child(6) {
+  grid-column: span 5;
 }
 
 @media (max-width: 900px) {

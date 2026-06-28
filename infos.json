@@ -3,43 +3,84 @@
     {
       "id": "project-01",
       "coverImage": "public/img/Projets/project-01/cover.png",
-      "title": "Journeys",
-      "year": "2026",
+      "title": "The Room",
+      "year": "2025 - 2026",
       "roles": {
         "1": "Graphiste",
-        "2": "Directeur artistique",
-        "3": "Monteur vidéo"
+        "2": "Monteur vidéo",
+        "3": "Développeur",
+        "4": "Gestionnaire des scènes",
+        "5": "Mappeur"
       },
-      "duration": "En cours",
-      "context": "Projet Personnel",
-      "description": "Branding complet d'une compagnie ferrovaire axée sur l'écologie.",
+      "duration": "8 mois",
+      "context": "Projet étudiant",
+      "description": "Une expérience immersive et interactive.",
       "technos": {
-        "1": "Figma",
-        "2": "Illustrator",
-        "3": "Photoshop",
-        "4": "After Effects",
-        "5": "Blender"
+        "1": "Python",
+        "2": "NodeJS",
+        "3": "PostgreSQL",
+        "4": "Arduino",
+        "5": "Illustrator",
+        "6": "Photoshop",
+        "7": "After Effects",
+        "8": "Premiere Pro",
+        "9": "Resolume Arena",
+        "10": "OBS Studio"
       },
-      "videos": {},
-      "target": "Jeunes voyageurs (20-40 ans)",
-      "format": "Digital",
+      "videos": {
+        "1": "https://youtu.be/Z0o1wRTzZDU"
+      },
+      "target": "Groupes d'amis (18-30 ans)",
+      "format": "Immersif et interactif",
       "deliverables": {
-        "1": "Proposition de logos",
-        "2": "Logo final + charte graphique",
-        "3": "Prototypes de supports",
-        "4": "à venir..."
+        "1": "Présentation du concept",
+        "2": "Concept des épreuves",
+        "3": "Prototype",
+        "4": "Présentation"
       },
-      "teamSize": "Seul",
+      "teamSize": "7 membres",
       "content": {
-        "1": "Journeys est une compagnie ferroviaire fictive dont je fais le branding, la recherche et les visuels de communication.",
-        "2": "C'est un projet personnel que j'ai commencé pour montrer mes compétences en design thinking / graphique et m'offrir une certaine expérience supplémentaire dans ce domaine de création digitale.",
-        "3": "Il n'est pas encore fini mais je compte bien le mener à terme et pouvoir présenter une identité de marque solide et cohérente qui parle à sa cible et qui véhicule une idée forte : le voyage éco-responsable."
+        "1": "The Room est un projet étudiant réalisé sur une année complète dans le cadre de mon année d'étude à l'UQAT, au Québec. Enfermés entre 4 murs, 5 participants de ce jeu TV / Escape Game doivent faire face à 4 épreuves et énigmes.",
+        "2": "Nous avons réalisé ce projet de A à Z, de la conception à la réalisation, en passant par le développement et la création de tous les éléments graphiques, visuels et sonores.",
+        "3": "Un présentateur virtuel leur parle et les guides si besoin. Mais ce dernier est un peu sournois et sème le trouble parmi le groupe de joueurs en poussant les uns et les autres à se trahir pour tester leur amitié. Car oui nous avons privilégié les groupes d'amis pour voir comment ils réagissaient face à la trahison et au stress."
       },
       "images": {
-        "1": "public/img/Projets/project-01/img-01.png",
-        "2": "public/img/Projets/project-01/img-02.png"
+        "1": "public/img/Projets/project-01/img-01.jpg",
+        "2": "public/img/Projets/project-01/img-02.png",
+        "3": "public/img/Projets/project-01/img-03.png",
+        "4": "public/img/Projets/project-01/img-04.png",
+        "5": "public/img/Projets/project-01/img-05.png",
+        "6": "public/img/Projets/project-01/img-06.png"
       },
-      "conclusion": "Je vois Journeys comme mon premier projet branding complet et j'ai hâte de présenter ici le résultat final de l'identité digitale de cette compagnie ferroviaire verte !"
+      "unicite": {
+        "aspect1": {
+          "title": "L'immersion",
+          "description": "L'isolation spatiale et sonore des joueurs coupe les joueurs du monde extérieur et crée un environnement leur permettant de vivre l'expérience à fond.",
+          "tools": {
+            "1": "Design sonore",
+            "2": "Infrastructure spatiale"
+          }
+        },
+        "aspect2": {
+          "title": "Dualité Coopération / Trahison",
+          "description": "Il est possible de gagner en équipe ou seul. C'est aux joueurs de décider individuellement de leur manière de jouer. L'inconfort de ne pas connaître les choix de chacun rend les enjeux plus intenses. Cette dualité renforce encore plus l'immersion et le stress des joueurs.",
+          "tools": {
+            "1": "Présentateur",
+            "2": "Étude des joueurs inscrits au préalable"
+          }
+        },
+        "aspect3": {
+          "title": "Interactivité",
+          "description": "Lors des différents jeux, les joueurs peuvent interagir avec les éléments dans la salle comme les boutons ou encore le casque audio qui sert au présentateur à appeler un joueur en particulier et lui parler individuellement. De plus, ce qui rend ce projet encore plus interactif et unique est le fait que les participants interagissent avec le mapping vidéo au sol (des trappes qui s'ouvrent, des chemins qui se créent...)",
+          "tools": {
+            "1": "Mapping au sol",
+            "2": "Boutons intéractifs",
+            "3": "Casque audio",
+            "4": "Présentateur"
+          }
+        }
+      },
+      "conclusion": "The Room est un projet qui m'a permis de développer mes compétences dans de nombreux domaines, notamment la gestion de projet, le mapping vidéo ou encore le développement de contenu interactif et immersif. Ce projet a été une expérience très enrichissante et m'a permis de travailler sur un de mes projets les plus ambitieux et innovants."
     },
     {
       "id": "project-02",
@@ -218,84 +259,91 @@
     {
       "id": "project-05",
       "coverImage": "public/img/Projets/project-05/cover.png",
-      "title": "The Room",
-      "year": "2025 - 2026",
+      "title": "Journeys",
+      "year": "2026",
       "roles": {
         "1": "Graphiste",
-        "2": "Monteur vidéo",
-        "3": "Développeur",
-        "4": "Gestionnaire des scènes",
-        "5": "Mappeur"
+        "2": "Directeur artistique",
+        "3": "Monteur vidéo"
       },
-      "duration": "8 mois",
-      "context": "Projet étudiant",
-      "description": "Une expérience immersive et interactive.",
+      "duration": "En cours",
+      "context": "Projet Personnel",
+      "description": "Branding complet d'une compagnie ferrovaire axée sur l'écologie.",
       "technos": {
-        "1": "Python",
-        "2": "NodeJS",
-        "3": "PostgreSQL",
-        "4": "Arduino",
-        "5": "Illustrator",
-        "6": "Photoshop",
-        "7": "After Effects",
-        "8": "Premiere Pro",
-        "9": "Resolume Arena",
-        "10": "OBS Studio"
+        "1": "Figma",
+        "2": "Illustrator",
+        "3": "Photoshop",
+        "4": "After Effects",
+        "5": "Blender"
       },
-      "videos": {
-        "1": "https://youtu.be/Z0o1wRTzZDU"
-      },
-      "target": "Groupes d'amis (18-30 ans)",
-      "format": "Immersif et interactif",
+      "videos": {},
+      "target": "Jeunes voyageurs (20-40 ans)",
+      "format": "Digital",
       "deliverables": {
-        "1": "Présentation du concept",
-        "2": "Concept des épreuves",
-        "3": "Prototype",
-        "4": "Présentation"
+        "1": "Proposition de logos",
+        "2": "Logo final + charte graphique",
+        "3": "Prototypes de supports",
+        "4": "à venir..."
       },
-      "teamSize": "7 membres",
+      "teamSize": "Seul",
       "content": {
-        "1": "The Room est un projet étudiant réalisé sur une année complète dans le cadre de mon année d'étude à l'UQAT, au Québec. Enfermés entre 4 murs, 5 participants de ce jeu TV / Escape Game doivent faire face à 4 épreuves et énigmes.",
-        "2": "Nous avons réalisé ce projet de A à Z, de la conception à la réalisation, en passant par le développement et la création de tous les éléments graphiques, visuels et sonores.",
-        "3": "Un présentateur virtuel leur parle et les guides si besoin. Mais ce dernier est un peu sournois et sème le trouble parmi le groupe de joueurs en poussant les uns et les autres à se trahir pour tester leur amitié. Car oui nous avons privilégié les groupes d'amis pour voir comment ils réagissaient face à la trahison et au stress."
+        "1": "Journeys est une compagnie ferroviaire fictive dont je fais le branding, la recherche et les visuels de communication.",
+        "2": "C'est un projet personnel que j'ai commencé pour montrer mes compétences en design thinking / graphique et m'offrir une certaine expérience supplémentaire dans ce domaine de création digitale.",
+        "3": "Il n'est pas encore fini mais je compte bien le mener à terme et pouvoir présenter une identité de marque solide et cohérente qui parle à sa cible et qui véhicule une idée forte : le voyage éco-responsable."
       },
       "images": {
-        "1": "public/img/Projets/project-05/img-01.jpg",
-        "2": "public/img/Projets/project-05/img-02.png",
-        "3": "public/img/Projets/project-05/img-03.png",
-        "4": "public/img/Projets/project-05/img-04.png",
-        "5": "public/img/Projets/project-05/img-05.png",
-        "6": "public/img/Projets/project-05/img-06.png"
+        "1": "public/img/Projets/project-05/img-01.png",
+        "2": "public/img/Projets/project-05/img-02.png"
       },
-      "unicite": {
-        "aspect1": {
-          "title": "L'immersion",
-          "description": "L'isolation spatiale et sonore des joueurs coupe les joueurs du monde extérieur et crée un environnement leur permettant de vivre l'expérience à fond.",
-          "tools": {
-            "1": "Design sonore",
-            "2": "Infrastructure spatiale"
-          }
-        },
-        "aspect2": {
-          "title": "Dualité Coopération / Trahison",
-          "description": "Il est possible de gagner en équipe ou seul. C'est aux joueurs de décider individuellement de leur manière de jouer. L'inconfort de ne pas connaître les choix de chacun rend les enjeux plus intenses. Cette dualité renforce encore plus l'immersion et le stress des joueurs.",
-          "tools": {
-            "1": "Présentateur",
-            "2": "Étude des joueurs inscrits au préalable"
-          }
-        },
-        "aspect3": {
-          "title": "Interactivité",
-          "description": "Lors des différents jeux, les joueurs peuvent interagir avec les éléments dans la salle comme les boutons ou encore le casque audio qui sert au présentateur à appeler un joueur en particulier et lui parler individuellement. De plus, ce qui rend ce projet encore plus interactif et unique est le fait que les participants interagissent avec le mapping vidéo au sol (des trappes qui s'ouvrent, des chemins qui se créent...)",
-          "tools": {
-            "1": "Mapping au sol",
-            "2": "Boutons intéractifs",
-            "3": "Casque audio",
-            "4": "Présentateur"
-          }
-        }
+      "conclusion": "Je vois Journeys comme mon premier projet branding complet et j'ai hâte de présenter ici le résultat final de l'identité digitale de cette compagnie ferroviaire verte !"
+    },
+    {
+      "id": "project-06",
+      "coverImage": "public/img/Projets/project-06/cover.jpg",
+      "title": "Coupable",
+      "year": "2026",
+      "roles": {
+        "1": "Réalisateur",
+        "2": "Monteur vidéo",
+        "3": "Directeur Photo",
+        "4": "Acteur"
       },
-      "conclusion": "The Room est un projet qui m'a permis de développer mes compétences dans de nombreux domaines, notamment la gestion de projet, le mapping vidéo ou encore le développement de contenu interactif et immersif. Ce projet a été une expérience très enrichissante et m'a permis de travailler sur un de mes projets les plus ambitieux et innovants."
+      "duration": "3 jours",
+      "context": "Concours de court-métrage",
+      "description": "Un petit film à contraintes réalisé en seulement 3 jours !",
+      "technos": {
+        "1": "Premiere Pro",
+        "2": "FL Studio",
+        "3": "Blender",
+        "4": "Photoshop"
+      },
+      "videos": {
+        "1": "https://www.youtube.com/watch?v=E4SlgK6gMqI"
+      },
+      "target": "Jury du concours et public étudiant",
+      "format": "Court-métrage",
+      "deliverables": {
+        "1": "Tournage",
+        "2": "Dérush",
+        "3": "Musique originale",
+        "4": "Montage"
+      },
+      "teamSize": "3 membres",
+      "content": {
+        "1": "Coupable est un court-métrage étudiant réalisé avec 'les moyens du bord', sans gros matériel ni budget.",
+        "2": "Nous avons mis un point d'honneur à tout créer de A à Z, de l'image à la musique. Nous avons réussi ce paris dans le délai de 3 jours qui nous était imparti.",
+        "3": "Le thème du concours était 'Roulette Russe' et les trois contraintes étaient les suivantes : • Un top-shot mobile • Superposition(s) de plans • Un plan maquereau (et non macro donc un poisson...)"
+      },
+      "images": {
+        "1": "public/img/Projets/project-06/img-01.jpg",
+        "2": "public/img/Projets/project-06/img-02.jpg",
+        "3": "public/img/Projets/project-06/img-03.jpg",
+        "4": "public/img/Projets/project-06/img-04.jpg",
+        "5": "public/img/Projets/project-06/img-05.jpg",
+        "6": "public/img/Projets/project-06/img-06.jpg",
+        "7": "public/img/Projets/project-06/img-07.jpg"
+      },
+      "conclusion": "Coupable est un projet dont je garde de bons souvenirs. Malgré quelques nuits très courtes, il m'a forcé à me dépasser pour rendre un projet le plus qualitatif possible dans le temps donné."
     }
   ]
 }
