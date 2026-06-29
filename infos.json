@@ -259,43 +259,42 @@
     {
       "id": "project-05",
       "coverImage": "public/img/Projets/project-05/cover.png",
-      "title": "Journeys",
+      "title": "Shooting 3D",
       "year": "2026",
       "roles": {
-        "1": "Graphiste",
-        "2": "Directeur artistique",
-        "3": "Monteur vidéo"
+        "1": "Directeur artistique",
+        "2": "3D Artist"
       },
-      "duration": "En cours",
+      "duration": "2 jours",
       "context": "Projet Personnel",
-      "description": "Branding complet d'une compagnie ferrovaire axée sur l'écologie.",
+      "description": "Simulation d'un shooting photo d'un canapé en 3D.",
       "technos": {
-        "1": "Figma",
-        "2": "Illustrator",
-        "3": "Photoshop",
-        "4": "After Effects",
-        "5": "Blender"
+        "1": "Blender"
       },
       "videos": {},
-      "target": "Jeunes voyageurs (20-40 ans)",
-      "format": "Digital",
+      "target": "Clients de catalogues de mobilier",
+      "format": "Modélisation 3D",
       "deliverables": {
-        "1": "Proposition de logos",
-        "2": "Logo final + charte graphique",
-        "3": "Prototypes de supports",
-        "4": "à venir..."
+        "1": "Modélisation 3D",
+        "2": "Texturing",
+        "3": "Lightning",
+        "4": "Rendering"
       },
       "teamSize": "Seul",
       "content": {
-        "1": "Journeys est une compagnie ferroviaire fictive dont je fais le branding, la recherche et les visuels de communication.",
-        "2": "C'est un projet personnel que j'ai commencé pour montrer mes compétences en design thinking / graphique et m'offrir une certaine expérience supplémentaire dans ce domaine de création digitale.",
-        "3": "Il n'est pas encore fini mais je compte bien le mener à terme et pouvoir présenter une identité de marque solide et cohérente qui parle à sa cible et qui véhicule une idée forte : le voyage éco-responsable."
+        "1": "Le but de cette simulation de shooting photo était de mettre en pratique mes compétences en 3D dans un contexte imposé (mobilier d'intérieur).",
+        "2": "J'ai évalué et analysé la cible, conçu un moodboard, choisis / inventé des meubles pour mettre en valeur ce canapé, puis j'ai modélisé la scène en 3D",
+        "3": "Tous ce qui est visibles sur les différents rendus ont été modélisés par mes soins, à l'exception des objets de décoration (plantes, petits objets...)."
       },
       "images": {
         "1": "public/img/Projets/project-05/img-01.png",
-        "2": "public/img/Projets/project-05/img-02.png"
+        "2": "public/img/Projets/project-05/img-02.png",
+        "3": "public/img/Projets/project-05/img-03.png",
+        "4": "public/img/Projets/project-05/img-04.png",
+        "5": "public/img/Projets/project-05/img-05.png",
+        "6": "public/img/Projets/project-05/img-06.png"
       },
-      "conclusion": "Je vois Journeys comme mon premier projet branding complet et j'ai hâte de présenter ici le résultat final de l'identité digitale de cette compagnie ferroviaire verte !"
+      "conclusion": "Avoir un contexte imposé (celui du mobilier d'intérieur) m'a permis de modéliser des objets que je n'avais pas l'habitude de faire ainsi que de concevoir en amont toute la direction artistique du shooting. J'ai donc réussi à produire un rendu concluant en sortant de ma zone de confort."
     },
     {
       "id": "project-06",
